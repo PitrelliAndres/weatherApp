@@ -10,7 +10,7 @@ const Location = ({city} ) => (
 );
 
 Location.propTypes = {
-    Location: PropTypes.string.isRequired,
+    Location: PropTypes.string,
 }
 
 
